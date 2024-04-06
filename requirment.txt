@@ -1,0 +1,14 @@
+# Projet Nmap Discord Bot
+
+Ce projet est un bot Discord conçu pour exécuter des commandes Nmap, telles que la numérisation de ports et la résolution DNS, ainsi que d'autres fonctionnalités telles que le ping et le scan HTTP.
+
+## Installation
+
+Pour exécuter ce bot, vous devez d'abord installer Python sur votre système. Ensuite, ouvrez une ligne de commande et suivez les étapes ci-dessous :
+
+1. Assurez-vous que Python est installé sur votre système. Si ce n'est pas le cas, vous pouvez le télécharger à partir du [site officiel de Python](https://www.python.org/downloads/).
+
+2. Ouvrez une ligne de commande et installez les modules Python requis en utilisant la commande suivante :
+
+   ```bash
+   pip install discord requests
