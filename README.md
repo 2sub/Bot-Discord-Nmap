@@ -2,7 +2,7 @@
 
 ## Aide Commande
 
-Ce bot Discord est conçu pour fournir des fonctionnalités telles que le scan Nmap, le ping et le scan HTTP. Voici comment vous pouvez l'utiliser :
+Ce bot Discord est conçu pour fournir des fonctionnalités telles que le scan Nmap, le ping et le scan HTTP. Voici comment vous pouvez l'utiliser:
 
 ### Installation
 
