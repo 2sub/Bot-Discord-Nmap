@@ -6,9 +6,9 @@ Ce bot Discord est conçu pour fournir des fonctionnalités telles que le scan N
 
 ### Installation
 
-1. Clonez ce dépôt GitHub sur votre machine locale.
+1. télécharger les fichier sur votre pc.
 2. Assurez-vous que vous avez Python installé.
-3. Installez les dépendances dans requirment.txt
+3. Installez les modules dans requirment.txt
 
 ### Configuration
 
