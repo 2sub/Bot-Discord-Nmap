@@ -9,6 +9,7 @@ Ce bot Discord est conçu pour fournir des fonctionnalités telles que le scan N
 1. télécharger les fichier sur votre pc.
 2. Assurez-vous que vous avez Python installé.
 3. Installez les modules dans requirment.txt
+4. ils vous faudra nmap installé sur votre pc pour héberger le bot
 
 ### Configuration
 
