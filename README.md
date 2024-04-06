@@ -8,7 +8,7 @@ Ce bot Discord est conçu pour fournir des fonctionnalités telles que le scan N
 
 1. Clonez ce dépôt GitHub sur votre machine locale.
 2. Assurez-vous que vous avez Python installé.
-3. Installez les dépendances en exécutant `requirment`.
+3. Installez les dépendances dans requirment
 
 ### Configuration
 
