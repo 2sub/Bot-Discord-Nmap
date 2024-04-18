@@ -1,4 +1,4 @@
-ouvrez un cmd et installé les modules nécessaires :
+ouvrez un cmd et installer les modules nécessaires :
 
 pip install discord
 
